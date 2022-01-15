@@ -187,36 +187,36 @@ p.contacts-name {
 }
 
 /* Тёмная тема */
-.dark-theme {
+.blue-theme{
   color: #f2f2f2;
-  background-color: #17161a;
+  background-color: rgb(83, 127, 194);
 }
 
-.dark-theme .page-header{
+.blue-theme .page-header{
   background-color: #3f3c53;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
 }
 
-.dark-theme a {
-  color: #9484f2;
+.blue-theme a {
+  color: #000000;
 }
 
-.dark-theme .theme-button {
+.blue-theme .theme-button {
   color: #9484f2;
   border: 1px solid #9484f2;
 }
 
-.dark-theme .theme-button:focus,
-.dark-theme .theme-button:hover {
+.blue-theme .theme-button:focus,
+.blue-theme .theme-button:hover {
   color: #17161a;
   background-color: #9484f2;
 }
 
-.dark-theme .status p {
+.blue-theme .status p {
   background-color: #2a2930;
 }
 
-.dark-theme .page-footer {
+.blue-theme .page-footer {
   background-color: #373540;
   color: #f2f2f2;
 }
